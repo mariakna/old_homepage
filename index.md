@@ -4,7 +4,7 @@ I am a PhD student in the [IDEALAB PhD program](https://phd-idealab.com/), based
 
 ### Short bio
 
-* Sept 2018 - current: IDEALAB PhD student
+* Sept 2018 - Present: IDEALAB PhD student
 * Oct 2015 - June 2018: MSc in Experimental & Clinical Linguistics, University of Potsdam, Germany
 * Sept 2010 - June 2015: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Moscow, Russia
 
