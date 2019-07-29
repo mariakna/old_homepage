@@ -8,6 +8,8 @@ I am a PhD student in the [IDEALAB PhD program](https://phd-idealab.com/) and I 
 * Oct 2015 - June 2018: MSc in Experimental & Clinical Linguistics, University of Potsdam, Germany
 * Sept 2010 - June 2015: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Moscow, Russia
 
+Download my CV [here](CVacademic.pdf)
+
 ### News / Upcoming events
 
 * 6-8 Sept 2019: I will be presenting a poster at [AMLaP](https://neuro.hse.ru/amlap2019/) in Moscow
