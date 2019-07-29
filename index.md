@@ -1,6 +1,6 @@
 ### ABOUT
 
-I am a PhD student in the [IDEALAB PhD program](https://phd-idealab.com/) and I am based at the University of Potsdam in Germany and Macquarie Univeristy in Sydney, Australia. I study how adults learn, retain, consolidate and/or forget words in their first and subsequently acquired languages. For instance, I am interested in how the learning context influences such aspects of word learning as explicit recall, semantic integration and between-language mapping. I also have a keen interest in the role of sleep and age-related processes in word learning. I use both behavioral and electrophysiological methods to examine this. I am also very enthusiastic about statistics.
+I am a PhD student in the [IDEALAB PhD program](https://phd-idealab.com/), based at the University of Potsdam in Germany and Macquarie Univeristy in Sydney, Australia. I study how adults learn, retain, consolidate and/or forget words in their first and subsequently acquired languages. For instance, I am interested in how the learning context influences such aspects of word learning as explicit recall, semantic integration and between-language mapping. I also have a keen interest in the role of sleep and age-related processes in word learning. I use both behavioral and electrophysiological methods to examine this. I am also very enthusiastic about statistics.
 
 ### Short bio
 
