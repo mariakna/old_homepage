@@ -19,7 +19,7 @@ Download my CV [here](CVacademic.pdf)
 
 ### Past events
 
-* 6-8 Sept 2019: [AMLaP 2019](https://neuro.hse.ru/amlap2019/): my poster is available [here](poster_amlap2.pdf)
+* 6-8 Sept 2019: [AMLaP 2019](https://neuro.hse.ru/amlap2019/); my poster is available [here](poster_amlap2.pdf)
 
 ### Contact
 
