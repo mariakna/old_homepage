@@ -14,9 +14,12 @@ Download my CV [here](CVacademic.pdf)
 
 ### News / Upcoming events
 
-* 6-8 Sept 2019: I will be presenting a poster at [AMLaP](https://neuro.hse.ru/amlap2019/) in Moscow
 * 9-13 Sept 2019: [The 3rd Summer School on Statistical Methods for Linguistics and Psychology](https://vasishth.github.io/smlp2019/), Univeristy of Potsdam
 * 25-28 Sept 2019: I will be presenting another poster at [ESCoP](https://escop2019.webs.ull.es/) in Tenerife
+
+### Past events
+
+* 6-8 Sept 2019: [AMLaP](https://neuro.hse.ru/amlap2019/): my poster is available [here](poster_amlap2.pdf)
 
 ### Contact
 
