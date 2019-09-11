@@ -10,16 +10,15 @@ My amazing supervisors are [Lyndsey Nickels](https://researchers.mq.edu.au/en/pe
 * Oct 2015 - June 2018: MSc in Experimental & Clinical Linguistics, University of Potsdam, Germany
 * Sept 2010 - June 2015: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Moscow, Russia
 
-Download my CV [here](CVacademic.pdf)
+You will find a list of events (conferences, workshops, etc) as well as my contributions (slides, posters, etc) and a list of publications in my [CV](CVacademic.pdf).
+
+All information about my current projects (including pre-registration, scripts, ect) is available at [OSF](https://osf.io/zf8px/).
 
 ### News / Upcoming events
 
-* 9-13 Sept 2019: [The 3rd Summer School on Statistical Methods for Linguistics and Psychology](https://vasishth.github.io/smlp2019/), Univeristy of Potsdam
-* 25-28 Sept 2019: I will be presenting another poster at [ESCoP](https://escop2019.webs.ull.es/) in Tenerife
-
-### Past events
-
-* 6-8 Sept 2019: [AMLaP 2019](https://neuro.hse.ru/amlap2019/); my poster is available [here](poster_amlap2.pdf)
+* 9-13 Sept 2019: [The 3rd Summer School on Statistical Methods for Linguistics and Psychology](https://vasishth.github.io/smlp2019/), Univeristy of Potsdam, Germany
+* 25-28 Sept 2019: I will be presenting another poster at [ESCoP](https://escop2019.webs.ull.es/) in Tenerife, Spain
+* 10-13 Dec 2019: [Workshop on Australasian Magnetoencephalography | WAM 2019 Neurocognitive clinical applications of MEG: Present and future](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-human-sciences/departments-and-centres/department-of-cognitive-science/news-and-events/events/events2/workshop-on-australasian-magnetoencephalography-wam-2019-neurocognitive-clinical-applications-of-meg-present-and-future), Macquarie University, Australia
 
 ### Contact
 
