@@ -14,6 +14,8 @@ You will find a list of events (conferences, workshops, etc) as well as my contr
 
 All information about my current projects (including pre-registration, scripts, ect) is available at [OSF](https://osf.io/zf8px/).
 
+I also have a profile at [ResearchGate](https://www.researchgate.net/profile/Maria_Korochkina) but it is not updated regularly...
+
 ### News / Upcoming events
 
 * 9-13 Sept 2019: [The 3rd Summer School on Statistical Methods for Linguistics and Psychology](https://vasishth.github.io/smlp2019/), Univeristy of Potsdam, Germany
