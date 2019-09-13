@@ -10,9 +10,9 @@ My amazing supervisors are [Lyndsey Nickels](https://researchers.mq.edu.au/en/pe
 * Oct 2015 - June 2018: MSc in Experimental & Clinical Linguistics, University of Potsdam, Germany
 * Sept 2010 - June 2015: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Moscow, Russia
 
-Check my [CV](CVacademic.pdf) for more detail and publications (papers, talks, conference contributions, ect).
+Check my [CV](CVacademic.pdf) for more detail and a list of publications (papers, talks, conference contributions, etc).
 
-All information about my current projects (including pre-registration, scripts, ect) is available at [OSF](https://osf.io/zf8px/).
+All information about my current projects (pre-registration, scripts, etc) is available at [OSF](https://osf.io/zf8px/).
 
 I also have a profile at [ResearchGate](https://www.researchgate.net/profile/Maria_Korochkina) but it is not updated regularly...
 
