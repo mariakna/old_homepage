@@ -18,7 +18,6 @@ I also have a profile at [ResearchGate](https://www.researchgate.net/profile/Mar
 
 ### News / Upcoming events
 
-* 25-28 Sept 2019: I will be presenting a poster at [ESCoP](https://escop2019.webs.ull.es/) in Tenerife, Spain
 * 10-13 Dec 2019: [Workshop on Australasian Magnetoencephalography (WAM) 2019 Neurocognitive clinical applications of MEG: Present and future](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-human-sciences/departments-and-centres/department-of-cognitive-science/news-and-events/events/events2/workshop-on-australasian-magnetoencephalography-wam-2019-neurocognitive-clinical-applications-of-meg-present-and-future), Macquarie University, Australia
 
 ### Contact
