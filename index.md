@@ -18,7 +18,6 @@ I also have a profile at [ResearchGate](https://www.researchgate.net/profile/Mar
 
 ### News / Upcoming events
 
-* 3-4 Dec 2019: Workshop [Software Carpentry in Python at Macquarie](https://mq-software-carpentry.github.io/2019-12-03-intro-to-python/), Macquarie University, Australia
 * 10-13 Dec 2019: [Workshop on Australasian Magnetoencephalography (WAM) 2019 Neurocognitive clinical applications of MEG: Present and future](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-human-sciences/departments-and-centres/department-of-cognitive-science/news-and-events/events/events2/workshop-on-australasian-magnetoencephalography-wam-2019-neurocognitive-clinical-applications-of-meg-present-and-future), Macquarie University, Australia
 
 ### Contact
