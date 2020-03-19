@@ -3,6 +3,6 @@ title: Maria Korochkina
 description: Feel free to bookmark this to keep an eye on my projects
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/mariakna/mariakna.github.io/blob/master/m.png
+avatar: "/blob/master/m.png"
 
 email: maria dot korochkina at hdr dot mq dot edu dot au
